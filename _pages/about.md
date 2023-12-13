@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a post-doctoral researcher at Purdue University, where I am fortunate to be under the guidance of [Prof. Aniket Kate](https://www.cs.purdue.edu/homes/akate/). In 2022, I obtained my doctoral degree from Shanghai Jiao Tong University, co-advised by Prof. Dawu Gu and Prof. Shi-Feng Sun.
 
-My research mainly focuses on applied cryptography, especially blockchain, secure computation and provable security. I am dedicated to designing efficient and secure cryptographic protocols that enhance collaboration among parties while ensuring privacy and security.
+My research mainly focuses on applied cryptography, especially blockchain, secure computation and provable security. I am dedicated to designing efficient and secure cryptographic protocols that enhance collaboration while ensuring privacy and security.
 
 
 
