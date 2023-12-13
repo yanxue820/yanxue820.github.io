@@ -29,6 +29,10 @@ Publications
   **Yanxue Jia**, Shi-Feng Sun, Yi Zhang, Zhiqiang Liu, Dawu Gu   
   [paper](https://dl.acm.org/doi/abs/10.1145/3433210.3453091), [talk](https://dl.acm.org/doi/10.1145/3433210.3453091)
 
+- PBT: A New Privacy-Preserving Payment Protocol for Blockchain Transaction (IEEE TDSC 2020)   
+  **Yanxue Jia**, Shi-Feng Sun, Yuncong Zhang, Qingzhao Zhang, Ning Ding, Zhiqiang Liu, Joseph Liu, Dawu Gu   
+  [paper](https://ieeexplore.ieee.org/document/9103944)
+
 
 
 
