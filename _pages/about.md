@@ -16,13 +16,16 @@ My research mainly focuses on applied cryptography, especially blockchain, secur
 
 Publications
 ======
-- A Universally Composable Non-Interactive Aggregate Cash System (Asiacrypt 2022) [paper](https://link.springer.com/chapter/10.1007/978-3-031-22963-3_25), [talk](https://www.youtube.com/watch?v=aokSL2T_pi8)  
-  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu 
+- A Universally Composable Non-Interactive Aggregate Cash System (Asiacrypt 2022)    
+  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu   
+  [paper](https://link.springer.com/chapter/10.1007/978-3-031-22963-3_25), [talk](https://www.youtube.com/watch?v=aokSL2T_pi8)
  
 
-- Shuffle-based Private Set Union: Faster and More Secure (USENIX Security 2022) [paper](https://www.usenix.org/conference/usenixsecurity22/presentation/jia), [talk](https://www.youtube.com/watch?v=ePittYrIYdw)  
-  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu  
+- Shuffle-based Private Set Union: Faster and More Secure (USENIX Security 2022)     
+  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu      
+  [paper](https://www.usenix.org/conference/usenixsecurity22/presentation/jia), [talk](https://www.youtube.com/watch?v=ePittYrIYdw)
 
+- Redactable Blockchain Supporting Supervision and Self-Management (AsiaCCS 2021) [paper](https://dl.acm.org/doi/abs/10.1145/3433210.3453091)
 
 
 
