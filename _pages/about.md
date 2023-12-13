@@ -25,7 +25,9 @@ Publications
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu      
   [paper](https://www.usenix.org/conference/usenixsecurity22/presentation/jia), [talk](https://www.youtube.com/watch?v=ePittYrIYdw)
 
-- Redactable Blockchain Supporting Supervision and Self-Management (AsiaCCS 2021) [paper](https://dl.acm.org/doi/abs/10.1145/3433210.3453091)
+- Redactable Blockchain Supporting Supervision and Self-Management (AsiaCCS 2021)   
+  **Yanxue Jia**, Shi-Feng Sun, Yi Zhang, Zhiqiang Liu, Dawu Gu   
+  [paper](https://dl.acm.org/doi/abs/10.1145/3433210.3453091), [talk](https://dl.acm.org/doi/10.1145/3433210.3453091)
 
 
 
