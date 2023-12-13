@@ -18,9 +18,11 @@ Publications
 ======
 - A Universally Composable Non-Interactive Aggregate Cash System [paper](https://link.springer.com/chapter/10.1007/978-3-031-22963-3_25), [talk](https://www.youtube.com/watch?v=aokSL2T_pi8)
 
-**Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu
+  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu
 
-*International Conference on the Theory and Application of Cryptology and Information Security (AsiaCrypt), 2022.*
+  *International Conference on the Theory and Application of Cryptology and Information Security (AsiaCrypt), 2022.*
+
+- Shuffle-based Private Set Union: Faster and More Secure
 
 
 Getting started
