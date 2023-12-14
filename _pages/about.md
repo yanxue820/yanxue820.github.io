@@ -38,7 +38,7 @@ Publications
   (In submission)
 
 - Scalable Private Set Union, with Stronger Security    
-  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu
+  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu     
   (In submission) [paper](https://eprint.iacr.org/2022/750)
 
 
