@@ -33,6 +33,15 @@ Publications
   **Yanxue Jia**, Shi-Feng Sun, Yuncong Zhang, Qingzhao Zhang, Ning Ding, Zhiqiang Liu, Joseph Liu, Dawu Gu   
   (IEEE TDSC 2020) [paper](https://ieeexplore.ieee.org/document/9103944)
 
+- HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted    
+  **Yanxue Jia**, Varun Madathil, Aniket Kate      
+  (In submission)
+
+- Scalable Private Set Union, with Stronger Security    
+  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu
+  (In submission) [paper](https://eprint.iacr.org/2022/750)
+
+
 
 
 
