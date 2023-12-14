@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a post-doctoral researcher in the Department of Computer Science at Purdue University, working under the expert guidance of [Prof. Aniket Kate](https://www.cs.purdue.edu/homes/akate/). In 2022, I obtained my Ph.D. in Computer Science from Shanghai Jiao Tong University, where I had the privilege of being co-advised by Prof. Dawu Gu and Prof. Shi-Feng Sun.
 
-My research mainly focuses on applied cryptography, especially blockchain, secure computation and provable security. I am dedicated to designing efficient and secure cryptographic protocols that enhance collaboration while ensuring privacy protection. For more detailed information about my academic and research background, please refer to my [CV](/files/paper1.pdf).
+My research mainly focuses on applied cryptography, especially blockchain, secure computation and provable security. I am dedicated to designing efficient and secure cryptographic protocols that enhance collaboration while ensuring privacy protection. For more detailed information about my academic and research background, please refer to my [CV](/files/cv.pdf).
 
 
 
@@ -55,4 +55,4 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Contact
 ------
-If you are interested in my research or any other topics about cryptography, please don't hesitate to reach out to me via email at [jia168@purdue.edu].
+If you are interested in my research or any other topics about cryptography, please don't hesitate to reach out to me via email at jia168@purdue.edu.
