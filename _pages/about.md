@@ -49,6 +49,6 @@ Service
 ======
 - **Reviewer**: ASIACRYPT(2023/2021), EUROCRYPT(2020), IEEE S&P(2024/2023), CCS(2023/2021), ASIACCS(2020), FC(2024/2022), ACNS(2023/2022)
 
-For more info
+<!-- For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
