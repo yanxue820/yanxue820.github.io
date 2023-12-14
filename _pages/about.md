@@ -55,4 +55,4 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Contact
 ------
-If you are interested in my research or any other topics about cryptography, please don't hesitate to reach out to me via email at [jia168@purdue.edu](jia168@purdue.edu).
+If you are interested in my research or any other topics about cryptography, please don't hesitate to reach out to me via email at [jia168@purdue.edu].
