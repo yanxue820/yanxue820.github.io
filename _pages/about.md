@@ -12,6 +12,8 @@ I am currently a post-doctoral researcher in the Department of Computer Science 
 
 My research mainly focuses on applied cryptography, especially blockchain, secure computation and provable security. I am dedicated to designing efficient and secure cryptographic protocols that enhance collaboration while ensuring privacy protection.
 
+Please see my [CV](/files/paper1.pdf).
+
 
 
 Publications
