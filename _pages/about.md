@@ -16,22 +16,22 @@ My research mainly focuses on applied cryptography, especially blockchain, secur
 
 Publications
 ======
-- A Universally Composable Non-Interactive Aggregate Cash System (Asiacrypt 2022)    
+- A Universally Composable Non-Interactive Aggregate Cash System       
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu   
-  [paper](https://link.springer.com/chapter/10.1007/978-3-031-22963-3_25), [talk](https://www.youtube.com/watch?v=aokSL2T_pi8)
+  (Asiacrypt 2022) [paper](https://link.springer.com/chapter/10.1007/978-3-031-22963-3_25), [talk](https://www.youtube.com/watch?v=aokSL2T_pi8)
  
 
-- Shuffle-based Private Set Union: Faster and More Secure (USENIX Security 2022)     
+- Shuffle-based Private Set Union: Faster and More Secure          
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu      
-  [paper](https://www.usenix.org/conference/usenixsecurity22/presentation/jia), [talk](https://www.youtube.com/watch?v=ePittYrIYdw)
+  (USENIX Security 2022) [paper](https://www.usenix.org/conference/usenixsecurity22/presentation/jia), [talk](https://www.youtube.com/watch?v=ePittYrIYdw)
 
-- Redactable Blockchain Supporting Supervision and Self-Management (AsiaCCS 2021)   
+- Redactable Blockchain Supporting Supervision and Self-Management    
   **Yanxue Jia**, Shi-Feng Sun, Yi Zhang, Zhiqiang Liu, Dawu Gu   
-  [paper](https://dl.acm.org/doi/abs/10.1145/3433210.3453091), [talk](https://dl.acm.org/doi/10.1145/3433210.3453091)
+  (AsiaCCS 2021) [paper](https://dl.acm.org/doi/abs/10.1145/3433210.3453091), [talk](https://dl.acm.org/doi/10.1145/3433210.3453091)
 
-- PBT: A New Privacy-Preserving Payment Protocol for Blockchain Transaction (IEEE TDSC 2020)   
+- PBT: A New Privacy-Preserving Payment Protocol for Blockchain Transaction    
   **Yanxue Jia**, Shi-Feng Sun, Yuncong Zhang, Qingzhao Zhang, Ning Ding, Zhiqiang Liu, Joseph Liu, Dawu Gu   
-  [paper](https://ieeexplore.ieee.org/document/9103944)
+  (IEEE TDSC 2020) [paper](https://ieeexplore.ieee.org/document/9103944)
 
 
 
