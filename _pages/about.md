@@ -41,15 +41,17 @@ Publications
   **Yanxue Jia**, Shi-Feng Sun, Yuncong Zhang, Qingzhao Zhang, Ning Ding, Zhiqiang Liu, Joseph Liu, Dawu Gu   
   (IEEE TDSC 2020) [paper](https://ieeexplore.ieee.org/document/9103944)
 
-- Scalable Private Set Union, with Stronger Security    
-  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu     
-  [paper](https://eprint.iacr.org/2022/750)
+
 
 Manuscripts
 
 - Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
   Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate
   [paper](https://eprint.iacr.org/2024/733)
+
+- Scalable Private Set Union, with Stronger Security    
+  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu     
+  [paper](https://eprint.iacr.org/2022/750)
 
 
 
