@@ -44,9 +44,10 @@ Publications
 
 
 Manuscripts
+=====
 
 - Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
-  Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate
+  Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
   [paper](https://eprint.iacr.org/2024/733)
 
 - Scalable Private Set Union, with Stronger Security    
@@ -59,6 +60,7 @@ Manuscripts
 
 Service
 ======
+- **Program Committee**: CCS(2024)
 - **Reviewer**: ASIACRYPT(2023/2021), EUROCRYPT(2020), IEEE S&P(2024/2023), CCS(2023/2021), ASIACCS(2020), FC(2024/2022), ACNS(2023/2022)
 
 <!-- For more info
