@@ -50,7 +50,7 @@ Manuscripts
   Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
   [paper](https://eprint.iacr.org/2024/733)
 
-- Scalable Private Set Union, with Stronger Security    
+- The Ideal Functionalities for Private Set Union, Revisited    
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu     
   [paper](https://eprint.iacr.org/2022/750)
 
