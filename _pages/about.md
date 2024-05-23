@@ -25,7 +25,7 @@ Publications
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu
   (USENIX Security 2024)
 
-- A Universally Composable Non-Interactive Aggregate Cash System       
+- A Universally Composable Non-Interactive Aggregate Cash System
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu   
   (Asiacrypt 2022) [paper](https://link.springer.com/chapter/10.1007/978-3-031-22963-3_25), [talk](https://www.youtube.com/watch?v=aokSL2T_pi8)
  
