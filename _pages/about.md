@@ -60,8 +60,9 @@ Manuscripts
 
 Service
 ======
-- **Program Committee**: FC(2025), CCS(2024)
-- **Reviewer**: ASIACRYPT(2023/2021), EUROCRYPT(2020), IEEE S&P(2024/2023), CCS(2023/2021), ASIACCS(2020), FC(2024/2022), ACNS(2023/2022)
+- **Program Committee Member**: FC(2025), CCS(2024)
+- **Conference Paper Review Service**: ASIACRYPT(2024/2023/2021), EUROCRYPT(2020), IEEE S&P(2025/2024/2023), CCS(2023/2021), ASIACCS(2020), FC(2024/2022), ACNS(2023/2022)
+- **Journal Paper Review Service**: TIFS(2024), TOPS (2024), IoTJ (2024), TDSC (2023)
 
 <!-- For more info
 ------
