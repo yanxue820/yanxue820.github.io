@@ -23,7 +23,7 @@ Publications
 
 - Scalable Private Set Union, with Stronger Security    
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu     
-  (USENIX Security 2024)
+  (USENIX Security 2024) [paper](https://eprint.iacr.org/2024/922)
 
 - A Universally Composable Non-Interactive Aggregate Cash System     
   **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Jiajun Du, Dawu Gu   
