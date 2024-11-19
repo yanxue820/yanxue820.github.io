@@ -52,9 +52,14 @@ Manuscripts
   Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
   [paper](https://eprint.iacr.org/2024/733)
 
-- The Ideal Functionalities for Private Set Union, Revisited    
-  **Yanxue Jia**, Shi-Feng Sun, Hong-Sheng Zhou, Dawu Gu     
-  [paper](https://eprint.iacr.org/2022/750)
+- Kerblam — Anonymous Messaging System Protecting Both Senders and Recipients
+  **Yanxue Jia**, Debajyoti Das, Wenhao Zhang, Aniket Kate
+  [paper](/files/Kerblam.pdf)
+
+- Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and
+Application to Stateless Blockchains
+  Zhongtang Luo, **Yanxue Jia**, Alejandra Victoria Ospina Gracia, Aniket Kate   
+  [paper](/files/Cauchyproofs.pdf)
 
 
 
@@ -65,7 +70,7 @@ Service
 - **Program Committee Member**: CCS(2025/2024), FC(2025) 
 - **Conference Paper Review Service**: ASIACRYPT(2024/2023/2021), EUROCRYPT(2020), IEEE S&P(2025/2024/2023), CCS(2023/2021), ASIACCS(2020), FC(2024/2022), ACNS(2023/2022)
 - **Journal Paper Review Service**: TIFS(2024), TOPS (2024), IoTJ (2024), TDSC (2023)
-- **Workshop Organizing Committee**: IMPACT (co-located event with NDSS 2025)
+- **Workshop Organizing Committee**: IMPACT (co-located with NDSS 2025)
 
 <!-- For more info
 ------
