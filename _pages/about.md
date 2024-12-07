@@ -14,6 +14,25 @@ My research mainly focuses on applied cryptography, especially blockchain, secur
 
 
 
+Manuscripts
+=====
+
+
+
+- Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability   
+  Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
+  (SBC 2024) [paper](https://eprint.iacr.org/2024/733)
+
+- Kerblam — Anonymous Messaging System Protecting Both Senders and Recipients   
+  **Yanxue Jia**, Debajyoti Das, Wenhao Zhang, Aniket Kate   
+  [paper](/files/Kerblam.pdf)
+
+- Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and
+Application to Stateless Blockchains   
+  Zhongtang Luo, **Yanxue Jia**, Alejandra Victoria Ospina Gracia, Aniket Kate   
+  [paper](/files/Cauchyproofs.pdf)
+
+
 Publications
 ======
 
@@ -43,23 +62,7 @@ Publications
 
 
 
-Manuscripts
-=====
 
-
-
-- Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability   
-  Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
-  [paper](https://eprint.iacr.org/2024/733)
-
-- Kerblam — Anonymous Messaging System Protecting Both Senders and Recipients   
-  **Yanxue Jia**, Debajyoti Das, Wenhao Zhang, Aniket Kate   
-  [paper](/files/Kerblam.pdf)
-
-- Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and
-Application to Stateless Blockchains   
-  Zhongtang Luo, **Yanxue Jia**, Alejandra Victoria Ospina Gracia, Aniket Kate   
-  [paper](/files/Cauchyproofs.pdf)
 
 
 
