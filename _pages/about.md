@@ -66,25 +66,25 @@ Talks
 ======
 
 - HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted   
-  *CERIAS Security Seminar (Purdue University)*  
-  *Triangle Area Privacy and Security (TAPS) Day, Duke University*    
-  *ACM CCS 2024*  
+  *Nov. 2024, CERIAS Security Seminar (Purdue University)*  
+  *Oct. 2024, Triangle Area Privacy and Security (TAPS) Day, Duke University*    
+  *Oct. 2024, ACM CCS 2024*  
 
 - Private Set Union: Challenges in Design and Security   
-  *University of Illinois Urbana-Champaign, Course CS591 Colloquium*   
+  *Oct. 2024, University of Illinois Urbana-Champaign, Course CS591 Colloquium*   
 
 - Scalable Private Set Union, with Stronger Security   
-  *USENIX Security 2024*    
+  *Aug. 2024, USENIX Security 2024*    
 
 - A Universally Composable Non-Interactive Aggregate Cash System   
-  *Asiacrypt 2022*   
+  *Dec. 2022, Asiacrypt 2022*   
 
 - Shuffle-based Private Set Union: Faster and More Secure   
-  *USENIX Security 2022*   
-  *The 23rd annual CERIAS Information Security Symposium (Purdue University)*   
-  
+  *Aug. 2022, USENIX Security 2022*   
+  *Mar. 2023, The 23rd annual CERIAS Information Security Symposium (Purdue University)*   
+
 - Redactable Blockchain Supporting Supervision and Self-Management   
-  *ACM AsiaCCS 2021*
+  *Jun. 2021, ACM AsiaCCS 2021*
 
 
 
