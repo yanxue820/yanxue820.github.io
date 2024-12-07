@@ -62,6 +62,30 @@ Publications
 
 
 
+Talks
+======
+
+- HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted   
+  *CERIAS Security Seminar (Purdue University)*  
+  *Triangle Area Privacy and Security (TAPS) Day, Duke University*    
+  *ACM CCS 2024*  
+
+- Private Set Union: Challenges in Design and Security   
+  *University of Illinois Urbana-Champaign, Course CS591 Colloquium*   
+
+- Scalable Private Set Union, with Stronger Security   
+  *USENIX Security 2024*    
+
+- A Universally Composable Non-Interactive Aggregate Cash System   
+  *Asiacrypt 2022*   
+
+- Shuffle-based Private Set Union: Faster and More Secure   
+  *USENIX Security 2022*   
+  *The 23rd annual CERIAS Information Security Symposium (Purdue University)*   
+  
+- Redactable Blockchain Supporting Supervision and Self-Management   
+  *ACM AsiaCCS 2021*
+
 
 
 
