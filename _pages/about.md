@@ -36,7 +36,7 @@ Publications
 - Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and
 Application to Stateless Blockchains   
   Zhongtang Luo, **Yanxue Jia**, Alejandra Victoria Ospina Gracia, Aniket Kate   
-  (S&P 2025) [paper](https://eprint.iacr.org/2025/038)
+  (IEEE S&P 2025) [paper](https://eprint.iacr.org/2025/038)
 
 - HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted    
   **Yanxue Jia**, Varun Madathil, Aniket Kate      
