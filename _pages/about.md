@@ -12,7 +12,7 @@ I am currently a post-doctoral researcher in the Department of Computer Science 
 
 My research mainly focuses on applied cryptography, especially blockchain, secure computation and provable security. I am dedicated to designing efficient and secure cryptographic protocols that enhance collaboration while ensuring privacy protection. For more detailed information about my academic and research background, please refer to my [CV](/files/resume.pdf) and [research statement](/files/research statement.pdf).
 
-<p style="color:red">I will be joining the Department of Computer Science at Illinois Tech as a tenure-track Assistant Professor in Fall 2025. I am currently looking for highly motivated Ph.D. students to start in Spring or Fall 2026. Please see [here]{/files/Hiring.pdf} for more details.</p>
+<p style="color:red">I will be joining the Department of Computer Science at Illinois Tech as a tenure-track Assistant Professor in Fall 2025. I am currently looking for highly motivated Ph.D. students to start in Spring or Fall 2026. Please see [here](/files/Hiring.pdf) for more details.</p>
 
 
 
