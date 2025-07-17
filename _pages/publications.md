@@ -50,8 +50,8 @@ Application to Stateless Blockchains
 
 Manuscripts
 =====
-- Private Signaling Secure Against Actively Corrupted Servers
-  Haotian Chu, Xiao Wang, **Yanxue Jia**
+- Private Signaling Secure Against Actively Corrupted Servers    
+  Haotian Chu, Xiao Wang, **Yanxue Jia**    
   [paper](https://eprint.iacr.org/2025/1056)
 
 - Kerblam — Anonymous Messaging System Protecting Both Senders and Recipients   
