@@ -14,7 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+- Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability   
+  Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
+  (AFT 2025 / SBC 2024) [paper](https://eprint.iacr.org/2024/733)
 
 - Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and
 Application to Stateless Blockchains   
@@ -48,14 +50,11 @@ Application to Stateless Blockchains
 
 Manuscripts
 =====
-
-
-
-- Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability   
-  Zhongtang Luo, **Yanxue Jia**, Yaobin Shen, Aniket Kate    
-  (SBC 2024) [paper](https://eprint.iacr.org/2024/733)
+- Private Signaling Secure Against Actively Corrupted Servers
+  Haotian Chu, Xiao Wang, **Yanxue Jia**
+  [paper](https://eprint.iacr.org/2025/1056)
 
 - Kerblam — Anonymous Messaging System Protecting Both Senders and Recipients   
   **Yanxue Jia**, Debajyoti Das, Wenhao Zhang, Aniket Kate   
-  [paper](/files/Kerblam.pdf)
+  [paper](https://eprint.iacr.org/2025/997)
 
