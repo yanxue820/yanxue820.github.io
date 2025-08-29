@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanxue Jia"
   avatar           : "photo.png"
-  bio              : "Post‐Doctoral Researcher at Purdue Univerity"
-  location         : "West Lafayette, IN, USA"
+  bio              : "Assistant Professor at Illinois Tech"
+  location         : "Chicago, IL, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lOLhpwgAAAAJ&hl=zh-CN&oi=ao"
-  email            : "jia168@purdue.edu"
+  email            : "yjia12@illinoistech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
