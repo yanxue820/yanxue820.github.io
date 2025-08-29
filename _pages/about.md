@@ -20,9 +20,9 @@ My research mainly focuses on applied cryptography, especially blockchain, secur
 Service
 ======
 - **Program Committee Member**:    
-2026: Usenix Security, CCS, ACNS, FC   
-2025: CCS, FC   
-2024: CCS   
+  - 2026: Usenix Security, CCS, ACNS, FC
+  - 2025: CCS, FC
+  - 2024: CCS 
 
 - **Conference Paper Review Service**: CRYPTO(2025), ASIACRYPT(2024/2023/2021), EUROCRYPT(2020), IEEE S&P(2026/2025/2024/2023), CCS(2023/2021), ASIACCS(2020), FC(2024/2022), ACNS(2023/2022)
 - **Journal Paper Review Service**: TOPS (2024), TIFS(2024), IoTJ (2024), TDSC (2023)
