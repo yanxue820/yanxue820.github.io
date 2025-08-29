@@ -19,7 +19,7 @@ My research mainly focuses on applied cryptography, especially blockchain, secur
 
 Service
 ======
-- **Program Committee Member**: 
+- **Program Committee Member**:    
 2026: Usenix Security, CCS, ACNS, FC   
 2025: CCS, FC   
 2024: CCS   
